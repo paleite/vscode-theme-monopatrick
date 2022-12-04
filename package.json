@@ -1,0 +1,21 @@
+{
+  "name": "vscode-theme-monopatrick",
+  "displayName": "Monopatrick",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Monopatrick",
+        "uiTheme": "vs-dark",
+        "path": "./themes/monopatrick-color-theme.json"
+      }
+    ]
+  }
+}
